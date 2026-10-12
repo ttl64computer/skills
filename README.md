@@ -17,7 +17,7 @@ Settings → Connectors → Add custom connector → `https://mcp.ttl64.com/mcp`
 
 ## Codex
 
-Copy `plugins/ttl64/skills/ttl64` into your Codex skills folder, and add the server to `~/.codex/config.toml` (see https://app.ttl64.com/keys for the exact snippet and an API key).
+Copy `plugins/ttl64/skills/ttl64` into your Codex skills folder, and add the server to `~/.codex/config.toml` (see https://app.ttl64.com/keys/ai for the exact snippet; create a key at https://app.ttl64.com/keys).
 
 ## Grok
 
