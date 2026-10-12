@@ -1,0 +1,15 @@
+{
+  "name": "ttl64",
+  "description": "ttl64 for AI agents: short-lived Kubernetes clusters you create, use and let expire.",
+  "owner": {
+    "name": "ttl64",
+    "url": "https://ttl64.com"
+  },
+  "plugins": [
+    {
+      "name": "ttl64",
+      "source": "./plugins/ttl64",
+      "description": "Short-lived Kubernetes clusters from Claude: the ttl64 skill and the mcp.ttl64.com tools."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "ttl64": { "type": "http", "url": "https://mcp.ttl64.com/mcp" }
+  }
+}
