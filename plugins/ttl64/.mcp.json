@@ -1,5 +1,5 @@
 {
   "mcpServers": {
-    "ttl64": { "type": "http", "url": "https://mcp.ttl64.com/mcp" }
+    "ttl64": { "type": "http", "url": "https://mcp.ttl64.computer/mcp" }
   }
 }

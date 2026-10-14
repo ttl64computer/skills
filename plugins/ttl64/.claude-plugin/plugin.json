@@ -1,10 +1,10 @@
 {
   "name": "ttl64",
   "version": "0.1.0",
-  "description": "Short-lived Kubernetes clusters from Claude: the ttl64 skill and the mcp.ttl64.com tools.",
-  "homepage": "https://ttl64.com",
+  "description": "Short-lived Kubernetes clusters from Claude: the ttl64 skill and the mcp.ttl64.computer tools.",
+  "homepage": "https://ttl64.computer",
   "author": {
     "name": "ttl64",
-    "url": "https://ttl64.com"
+    "url": "https://ttl64.computer"
   }
 }

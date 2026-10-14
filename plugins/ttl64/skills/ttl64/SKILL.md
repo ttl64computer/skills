@@ -9,8 +9,8 @@ ttl64 gives a real multi-node K3s cluster in seconds. Every cluster has a TTL (3
 
 ## Two ways in
 
-- **MCP tools** (`mcp.ttl64.com`): `create_cluster`, `run_kubectl`, `extend_cluster`, `delete_cluster`, `get_usage`, and the rest. Prefer them when they are connected.
-- **CLI** (`ttl64`): when the tools are not connected but the shell has `ttl64` (`ttl64 --version`). Install: `curl -fsSL https://ttl64.com/install | sh`, then `ttl64 login`.
+- **MCP tools** (`mcp.ttl64.computer`): `create_cluster`, `run_kubectl`, `extend_cluster`, `delete_cluster`, `get_usage`, and the rest. Prefer them when they are connected.
+- **CLI** (`ttl64`): when the tools are not connected but the shell has `ttl64` (`ttl64 --version`). Install: `curl -fsSL https://ttl64.computer/install | sh`, then `ttl64 login`.
 
 Use one path for a task; don't mix them.
 
